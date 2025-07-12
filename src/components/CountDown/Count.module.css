@@ -1,0 +1,9 @@
+.count {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding-top: 1.2rem;
+  font-size: clamp(3rem, 20vw, 16rem);
+  font-weight: bold;
+}
