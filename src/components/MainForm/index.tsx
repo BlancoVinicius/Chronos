@@ -17,7 +17,7 @@ export function MainForm() {
       </div>
 
       <div className='formRow'>
-        <p>Lorem ipsum dolor sit amet.</p>
+        <p>Digite uma tarefa acima!</p>
       </div>
 
       <div className='formRow'>

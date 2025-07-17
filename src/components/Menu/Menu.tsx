@@ -32,7 +32,7 @@ export function Menu() {
 
   return (
     <nav className={styles.menu}>
-      <a className={styles.menuLink} href='#' aria-label='Home' title='Home'>
+      <a className={styles.menuLink} href='/' aria-label='Home' title='Home'>
         <HouseIcon />
       </a>
       <a

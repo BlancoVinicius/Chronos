@@ -7,8 +7,8 @@ import styles from './Footer.module.css';
 export function Footer() {
   return (
     <footer className={styles.footer}>
-      <a href=''>Entenda como funciona a técnica pomodoro</a>
-      <a href=''>Chronos Pomodoro &copy; {new Date().getFullYear()}</a>
+      <a href='/sobre/'>Entenda como funciona a técnica pomodoro</a>
+      <a href='/notfound/'>Chronos Pomodoro &copy; {new Date().getFullYear()}</a>
     </footer>
   );
 }
